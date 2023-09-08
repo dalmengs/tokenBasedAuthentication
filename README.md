@@ -14,7 +14,7 @@ So, I wanted to develop that authentication structure especially in spring secur
 
 All process about development had posted on my blog.<br>
 From the concepts of JWT to implementation and tests, you can follow all steps of my project totally:<br><br>
-Link : <a href="http://dalmeng-commeng.tistory.com">Episode #1. JWT Based Authentication - What is JWT?</a><br>
+Link : <a href="http://dalmeng-commeng.tistory.com/3">Episode #1. JWT Based Authentication - What is JWT?</a><br>
 (All Contents have been written in Korean.)
 
 <hr>
@@ -30,4 +30,4 @@ Link : <a href="http://dalmeng-commeng.tistory.com">Episode #1. JWT Based Authen
 
 개발의 모든 과정은 제 블로그에 게시되어 있습니다.<br>
 JWT의 개념부터 설계, 구현까지 모든 과정을 보실 수 있습니다.<br><br>
-링크 : <a href="http://dalmeng-commeng.tistory.com">JWT 기반 인증 1편 - JWT란?</a>
+링크 : <a href="http://dalmeng-commeng.tistory.com/3">JWT 기반 인증 1편 - JWT란?</a>
